@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(220, 255, 243);
+}
+h1 {
+    color: rgb(0, 140, 255);
+    font-weight: bolder;
+}
+p {
+    text-align: left;    
+}
+.link {
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    background-color: blue;
+    border-radius: 1rem;
+    border-style: double;
+    padding: 8px;
+    color: aliceblue;
+}
+footer {
+    text-align: end;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ul {
+    list-style-type: square;
+}
